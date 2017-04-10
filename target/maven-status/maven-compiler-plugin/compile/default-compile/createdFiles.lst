@@ -1,0 +1,6 @@
+com\newt\controller\ProductsController.class
+com\newt\ProductWareHouseMicroServiceApp.class
+com\newt\repository\ProductsRepository.class
+com\newt\service\ProductsService.class
+com\newt\service\ProductServiceImp.class
+com\newt\entity\Products.class
